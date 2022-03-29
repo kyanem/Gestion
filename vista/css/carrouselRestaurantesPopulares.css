@@ -1,0 +1,101 @@
+.card {
+  box-shadow:none; 
+  cursor:pointer;
+  border:solid 1px #FFFFFF;
+  border-radius:8px!important
+}
+.card-body {
+  background: #FFFFFF;
+  border-radius:8px!important
+}
+.carousel-multi-item .controls-top {
+  text-align: right;
+  font-weight:500;
+  font-size:14px;
+}
+
+.carousel-item.active
+{
+  display: flex;
+}
+
+.carousel-item-left
+{
+  display: none;
+}
+
+.carousel-item-right
+{
+  display: none;
+}
+
+.imgCarousel
+{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.carousel-item img
+{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.linkLimpio
+{
+  text-decoration: none;
+  
+}
+
+.linkLimpio
+{
+  text-decoration: none;
+  color: #535353;
+}
+
+.linkLimpio:hover
+{
+  text-decoration: none;
+  color: #535353;
+
+}
+
+.containerIcon{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 5px rgba(33, 41, 52, .75);
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}
+
+.tamañoPizza{
+  width: 130px;
+  height: 150px;
+}
+
+.tamañoHamburgesa{
+  width: 125px;
+  height: 150px;
+}
+
+.tamañoFish{
+  width: 125px;
+  height: 150px;
+}
+
+.tamañoGrill{
+  width: 125px;
+  height: 150px;
+}
+
+#backgroundLightBlue{
+  background-color: #DBF9FF;
+}
+
+#backgroundOrange{
+  background-color: #FF6339;
+}

@@ -1,0 +1,186 @@
+.colorBackgroundPage 
+{
+    background-color: #FBFAF8;
+}
+
+.symbolPrecios
+{
+    color: #72BD39;
+}
+
+.tagsTitleRestaurante
+{
+    color: #535353;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.tagsInfoRestaurante
+{
+    color: #535353;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.tagsDescripcionRestaurante
+{
+    text-align: justify;
+    color: black;
+}
+
+.principalTitle
+{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+}
+
+.wordRemarked
+{
+    color: #FF6339;
+}
+
+.botonEstilo
+{
+    background-color: #FF6339;
+    border-radius: 10px;
+    border:  0px;
+    color: #FFFFFF;
+    width: 100%;
+
+}
+
+.botonEstilo:hover
+{
+    background-color: #bb4829;
+    color: #FFFFFF;
+}
+
+.containerDescuento
+{
+    display: grid;
+    align-content: space-around;
+    justify-content: end;
+}
+
+.linksEstilo
+{
+    color: #FF6339;
+}
+
+.ubicacionMapa
+{
+    padding: 100px;
+    height: 300px;
+}
+
+.containerStars, .containerEscribirResena
+{
+    display: flex;
+    align-items: center;
+}
+
+.estrellaResena
+{
+    color: #FFC821;
+}
+
+.userIcon
+{
+    width: 50px;
+}
+
+.resenaContentInfo
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 80%;
+}
+
+.resenaUserInfo
+{
+    text-align: center;
+    width: 20%;
+}
+
+.contentInfoResena
+{
+    color: #535353;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.contentUserResena
+{
+    color: #535353;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.labelTitle
+{
+    font-size: 1.2em;
+    color: #535353;
+    text-align: justify;
+    font-weight: 500;
+}
+
+.imgCupon
+{
+    max-width: 600px;
+}
+
+.colorFont
+{
+    color: #535353;
+}
+
+.iconAction
+{
+    padding: 2px;
+    margin-left: 10px;
+}
+
+.iconEditColor
+{
+    color: #FFFFFF;
+    background-color: #FFC107;
+}
+
+.iconDeleteColor
+{
+    color: #FFFFFF;
+    background-color: #F44336;
+}
+
+.cardResena
+{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+
+.quitPadding
+{
+    padding: 0px;
+    margin:  0px;
+}
+
+.emptyContainer
+{
+    margin: 5px;
+}
+
+.imgResena
+{
+    height: 100%;
+}
+
+.filterStyle
+{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    height: auto;
+}
+
